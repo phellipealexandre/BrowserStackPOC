@@ -1,0 +1,3 @@
+include ':browserstack'
+include ':app'
+rootProject.name = "BrowserStackPOC"

@@ -1,2 +1,2 @@
 # BrowserStack POC
-Project created to showcase the capabilities of BrowserStasck device farm
+Project created to showcase the capabilities of BrowserStack device farm
